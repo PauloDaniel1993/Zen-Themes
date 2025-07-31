@@ -8,7 +8,7 @@
     height: 4px !important; /* Height of the top background */
     max-width: 100% !important;
     width: var(--bar-pcent) !important; /* Ensure full width or customizable width */
-    background-color: var(--bar-colour) !important; /* Solid color for the bar */
+    background-color: red !important; /* Solid color for the bar */
     filter: drop-shadow(0px 0px 10px black) !important;
     border-radius: 0 2px 2px 0 !important;
     @media (-moz-bool-pref: "uc.loadbar.no-rounded-corner") {
